@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "query": "Where is the onboarding guide?",
+      "retrieved_doc_ids": ["d1", "d3", "d4"],
+      "relevant_doc_ids": ["d1", "d2"],
+      "predicted_answer": "The onboarding guide is in docs/start-here.",
+      "expected_answer": "The onboarding guide is in docs/start-here."
+    },
+    {
+      "query": "How do I rotate API keys?",
+      "retrieved_doc_ids": ["d7", "d2", "d8"],
+      "relevant_doc_ids": ["d2"],
+      "predicted_answer": "Rotate API keys from the security settings page.",
+      "expected_answer": "Rotate API keys in the security settings."
+    }
+  ]
+}
