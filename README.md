@@ -1,5 +1,7 @@
 # rag-evals-lab
 
+![CI](https://github.com/TryKosm/rag-evals-lab/actions/workflows/ci.yml/badge.svg)
+
 Production-style toolkit for evaluating Retrieval Augmented Generation (RAG) quality across retrieval and answer-generation stages.
 
 ## Features
