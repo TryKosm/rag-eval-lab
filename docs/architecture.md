@@ -1,6 +1,6 @@
 # Architecture
 
-`rag-evals-lab` separates metric logic from orchestration:
+`rag-eval-lab` separates metric logic from orchestration:
 
 - `metrics.py`: Pure scoring functions for retrieval and answer quality.
 - `runner.py`: Dataset loop and aggregation.
